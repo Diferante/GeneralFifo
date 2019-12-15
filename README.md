@@ -22,6 +22,6 @@ another one is allocated and the new table's size is proportional to the number 
 - dequeue
 
 ## Dependencies:
-- stdlib.h
-- string.h
+- stdlib
+- string
 
